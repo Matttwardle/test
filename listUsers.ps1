@@ -1,5 +1,3 @@
-#Testing pull requests
-
 Import-Module ActiveDirectory
 $logFile = (Join-Path $ENV:USERPROFILE "Documents\listUsersLog.txt")
 
